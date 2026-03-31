@@ -1,2 +1,2 @@
-# code_3000
-Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
+# Homework 9: Personal Ethics Statement
+- I believe ethics is an extremely important part of computer science because technology can affect people in many different ways. As computers and AI technologies become more advanced, programmers and engineers should think about how their work will impact others, not just whether it works. After reading Chapter 5 of _Ethical Machines_, I think technology should be designed fairly, safely, and responsibly. People who create software or machines should make choices that help others and avoid causing harm. I also believe that privacy and honesty are extremely important when building new technologies. If a system can hurt people or invade privacy, then it is not truly a good technology. Overall, I believe computer scientists should use their skills responsibly and create technologies that benefit society.
